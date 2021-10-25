@@ -1,0 +1,8 @@
+Status Code :  201
+{"id":524861,"first_name":"First1","middle_name":"Mid1","last_name":"Last1","date_of_birth":"1989-07-08 00:00:00"}
+Status Code :  201
+{"id":524862,"first_name":"First2","middle_name":"Mid2","last_name":"Last2","date_of_birth":"2020-06-04 00:00:00"}
+Status Code :  201
+{"id":524863,"first_name":"First3","middle_name":"Mid3","last_name":"Last3","date_of_birth":"1990-04-25 00:00:00"}
+Status Code :  201
+{"id":524864,"first_name":"First4","middle_name":"Mid4","last_name":"Last4","date_of_birth":"1905-06-10 00:00:00"}
