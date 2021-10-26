@@ -1,16 +1,4 @@
 [ {
-  "buildOrder" : 12,
-  "reportUrl" : "http://localhost:8086/job/webautomation/12/allure",
-  "reportName" : "AllureReport",
-  "data" : {
-    "failed" : 0,
-    "broken" : 0,
-    "skipped" : 0,
-    "passed" : 3,
-    "unknown" : 0,
-    "total" : 3
-  }
-}, {
   "buildOrder" : 11,
   "reportUrl" : "http://localhost:8086/job/webautomation/11/allure",
   "reportName" : "AllureReport",

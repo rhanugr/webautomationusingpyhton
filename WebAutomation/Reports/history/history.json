@@ -4,20 +4,11 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     },
     "items" : [ {
-      "uid" : "b1983cbd1a7fbe1d",
-      "reportUrl" : "http://localhost:8086/job/webautomation/12/allure/#testresult/b1983cbd1a7fbe1d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1635265780552,
-        "stop" : 1635265812796,
-        "duration" : 32244
-      }
-    }, {
       "uid" : "7021c45ecaaa41f1",
       "reportUrl" : "http://localhost:8086/job/webautomation/11/allure/#testresult/7021c45ecaaa41f1",
       "status" : "broken",
@@ -34,20 +25,11 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     },
     "items" : [ {
-      "uid" : "60c51e69aa33acfd",
-      "reportUrl" : "http://localhost:8086/job/webautomation/12/allure/#testresult/60c51e69aa33acfd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1635265481705,
-        "stop" : 1635265780537,
-        "duration" : 298832
-      }
-    }, {
       "uid" : "78b6e7251b695dbe",
       "reportUrl" : "http://localhost:8086/job/webautomation/11/allure/#testresult/78b6e7251b695dbe",
       "status" : "passed",
@@ -63,20 +45,11 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     },
     "items" : [ {
-      "uid" : "6c6a1ada2d1459",
-      "reportUrl" : "http://localhost:8086/job/webautomation/12/allure/#testresult/6c6a1ada2d1459",
-      "status" : "passed",
-      "time" : {
-        "start" : 1635265812814,
-        "stop" : 1635265855724,
-        "duration" : 42910
-      }
-    }, {
       "uid" : "c3aadd0f3fbc3553",
       "reportUrl" : "http://localhost:8086/job/webautomation/11/allure/#testresult/c3aadd0f3fbc3553",
       "status" : "passed",

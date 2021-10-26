@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Oct 26 19:45:08 IST 2021","Tue Oct 26 19:45:44 IST 2021","35940","TestCases","test_openbrowser","","","","test_broken_images",""
-"passed","Tue Oct 26 19:40:13 IST 2021","Tue Oct 26 19:44:56 IST 2021","282453","TestCases","test_brokenlinks","","","","test_broken_link",""
-"broken","Tue Oct 26 19:44:56 IST 2021","Tue Oct 26 19:45:08 IST 2021","12036","TestCases","test_login","","","","test_open_browser",""
+"passed","Tue Oct 26 21:59:40 IST 2021","Tue Oct 26 22:00:12 IST 2021","32244","TestCases","test_login","","","","test_open_browser",""
+"passed","Tue Oct 26 21:54:41 IST 2021","Tue Oct 26 21:59:40 IST 2021","298832","TestCases","test_brokenlinks","","","","test_broken_link",""
+"passed","Tue Oct 26 22:00:12 IST 2021","Tue Oct 26 22:00:55 IST 2021","42910","TestCases","test_openbrowser","","","","test_broken_images",""

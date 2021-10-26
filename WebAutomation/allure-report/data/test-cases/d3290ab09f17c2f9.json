@@ -1,12 +1,12 @@
 {
-  "uid" : "78b6e7251b695dbe",
-  "name" : "test_broken_link",
-  "fullName" : "TestCases.test_brokenlinks#test_broken_link",
-  "historyId" : "44efb471fa31ac8faa60453ceb4dbcea",
+  "uid" : "d3290ab09f17c2f9",
+  "name" : "test_broken_images",
+  "fullName" : "TestCases.test_openbrowser#test_broken_images",
+  "historyId" : "1964e01203bce12c41bcbc68461bfafb",
   "time" : {
-    "start" : 1635257413913,
-    "stop" : 1635257696366,
-    "duration" : 282453
+    "start" : 1635257708928,
+    "stop" : 1635257744868,
+    "duration" : 35940
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,17 +16,17 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "7c22e65450d929aa",
+      "uid" : "e8a5330a0e0bd545",
       "name" : "stdout",
-      "source" : "7c22e65450d929aa.txt",
+      "source" : "e8a5330a0e0bd545.txt",
       "type" : "text/plain",
-      "size" : 780
+      "size" : 2439
     } ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
     "hasContent" : true,
-    "stepsCount" : 0
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -37,7 +37,7 @@
     "value" : "TestCases"
   }, {
     "name" : "suite",
-    "value" : "test_brokenlinks"
+    "value" : "test_openbrowser"
   }, {
     "name" : "host",
     "value" : "QSINBNB118"
@@ -52,21 +52,19 @@
     "value" : "cpython3"
   }, {
     "name" : "package",
-    "value" : "TestCases.test_brokenlinks"
+    "value" : "TestCases.test_openbrowser"
   }, {
     "name" : "resultFormat",
     "value" : "allure2"
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ "smoke" ]
   },
-  "source" : "78b6e7251b695dbe.json",
+  "source" : "d3290ab09f17c2f9.json",
   "parameterValues" : [ ]
 }

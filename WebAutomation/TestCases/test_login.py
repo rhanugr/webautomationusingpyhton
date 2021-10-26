@@ -24,7 +24,7 @@ def test_open_browser():
                             i.click()
                             break
                 # time.sleep(3)
-            driver.get_screenshot_as_file("loginpage.png")
+            # driver.get_screenshot_as_file("loginpage.png")
                 # wait.until(EC.visibility_of_element_located((By.NAME,"edit-name")))
             driver.find_element_by_id("edit-name").send_keys("hanamantaste@gmail.com")
             driver.find_element_by_id("edit-pass").send_keys("Ragha@90")
@@ -32,6 +32,6 @@ def test_open_browser():
             driver.find_element_by_name("op").click()
             print("Login is successfully Done")
             time.sleep(8)
-            driver.get_screenshot_as_file("HomePage.png")
+            # driver.get_screenshot_as_file("HomePage.png")
             print(driver.title)
             driver.close()

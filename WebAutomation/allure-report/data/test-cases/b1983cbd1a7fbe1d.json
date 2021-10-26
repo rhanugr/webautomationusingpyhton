@@ -1,0 +1,99 @@
+{
+  "uid" : "b1983cbd1a7fbe1d",
+  "name" : "test_open_browser",
+  "fullName" : "TestCases.test_login#test_open_browser",
+  "historyId" : "34e3ff6d71c06be268d3b3f2c31106ae",
+  "time" : {
+    "start" : 1635265780552,
+    "stop" : 1635265812796,
+    "duration" : 32244
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2a7eaa2d45f472cf",
+      "name" : "stdout",
+      "source" : "2a7eaa2d45f472cf.txt",
+      "type" : "text/plain",
+      "size" : 236
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "QSINBNB118"
+  }, {
+    "name" : "thread",
+    "value" : "10888-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4de01959f684744e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (399, 729)\n  (Session info: chrome=94.0.4606.81)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x004DBDE3+2473443]\n\tOrdinal0 [0x00476661+2057825]\n\tOrdinal0 [0x00382438+1057848]\n\tOrdinal0 [0x003B27B9+1255353]\n\tOrdinal0 [0x003B0AE0+1247968]\n\tOrdinal0 [0x003AE8AD+1239213]\n\tOrdinal0 [0x003AD701+1234689]\n\tOrdinal0 [0x003A3567+1193319]\n\tOrdinal0 [0x003C56E3+1332963]\n\tOrdinal0 [0x003A3386+1192838]\n\tOrdinal0 [0x003C57CA+1333194]\n\tOrdinal0 [0x003D4ABF+1395391]\n\tOrdinal0 [0x003C55AB+1332651]\n\tOrdinal0 [0x003A2104+1188100]\n\tOrdinal0 [0x003A2F59+1191769]\n\tGetHandleVerifier [0x00662266+1549718]\n\tGetHandleVerifier [0x0070D4A7+2250711]\n\tGetHandleVerifier [0x0056718B+521403]\n\tGetHandleVerifier [0x00566229+517465]\n\tOrdinal0 [0x0047B79D+2078621]\n\tOrdinal0 [0x0047FB58+2095960]\n\tOrdinal0 [0x0047FC92+2096274]\n\tOrdinal0 [0x00489541+2135361]\n\tBaseThreadInitThunk [0x7760FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77CC7A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77CC7A6E+238]",
+      "time" : {
+        "start" : 1635257696382,
+        "stop" : 1635257708418,
+        "duration" : 12036
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "7021c45ecaaa41f1",
+        "reportUrl" : "http://localhost:8086/job/webautomation/11/allure/#testresult/7021c45ecaaa41f1",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (399, 729)\n  (Session info: chrome=94.0.4606.81)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x004DBDE3+2473443]\n\tOrdinal0 [0x00476661+2057825]\n\tOrdinal0 [0x00382438+1057848]\n\tOrdinal0 [0x003B27B9+1255353]\n\tOrdinal0 [0x003B0AE0+1247968]\n\tOrdinal0 [0x003AE8AD+1239213]\n\tOrdinal0 [0x003AD701+1234689]\n\tOrdinal0 [0x003A3567+1193319]\n\tOrdinal0 [0x003C56E3+1332963]\n\tOrdinal0 [0x003A3386+1192838]\n\tOrdinal0 [0x003C57CA+1333194]\n\tOrdinal0 [0x003D4ABF+1395391]\n\tOrdinal0 [0x003C55AB+1332651]\n\tOrdinal0 [0x003A2104+1188100]\n\tOrdinal0 [0x003A2F59+1191769]\n\tGetHandleVerifier [0x00662266+1549718]\n\tGetHandleVerifier [0x0070D4A7+2250711]\n\tGetHandleVerifier [0x0056718B+521403]\n\tGetHandleVerifier [0x00566229+517465]\n\tOrdinal0 [0x0047B79D+2078621]\n\tOrdinal0 [0x0047FB58+2095960]\n\tOrdinal0 [0x0047FC92+2096274]\n\tOrdinal0 [0x00489541+2135361]\n\tBaseThreadInitThunk [0x7760FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77CC7A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77CC7A6E+238]",
+        "time" : {
+          "start" : 1635257696382,
+          "stop" : 1635257708418,
+          "duration" : 12036
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b1983cbd1a7fbe1d.json",
+  "parameterValues" : [ ]
+}

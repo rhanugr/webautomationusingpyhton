@@ -1,12 +1,12 @@
 {
-  "uid" : "c3aadd0f3fbc3553",
+  "uid" : "6c6a1ada2d1459",
   "name" : "test_broken_images",
   "fullName" : "TestCases.test_openbrowser#test_broken_images",
   "historyId" : "1964e01203bce12c41bcbc68461bfafb",
   "time" : {
-    "start" : 1635257708928,
-    "stop" : 1635257744868,
-    "duration" : 35940
+    "start" : 1635265812814,
+    "stop" : 1635265855724,
+    "duration" : 42910
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,17 +16,17 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "c67beda46012f0be",
+      "uid" : "ef8504275273040e",
       "name" : "stdout",
-      "source" : "c67beda46012f0be.txt",
+      "source" : "ef8504275273040e.txt",
       "type" : "text/plain",
       "size" : 2439
     } ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
     "hasContent" : true,
-    "stepsCount" : 0
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -43,7 +43,7 @@
     "value" : "QSINBNB118"
   }, {
     "name" : "thread",
-    "value" : "10744-MainThread"
+    "value" : "10888-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -63,10 +63,38 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "d3290ab09f17c2f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635257708928,
+        "stop" : 1635257744868,
+        "duration" : 35940
+      }
+    } ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "c3aadd0f3fbc3553",
+        "reportUrl" : "http://localhost:8086/job/webautomation/11/allure/#testresult/c3aadd0f3fbc3553",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635257708928,
+          "stop" : 1635257744868,
+          "duration" : 35940
+        }
+      } ]
+    },
     "tags" : [ "smoke" ]
   },
-  "source" : "c3aadd0f3fbc3553.json",
+  "source" : "6c6a1ada2d1459.json",
   "parameterValues" : [ ]
 }

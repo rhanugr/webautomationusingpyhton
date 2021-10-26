@@ -2,9 +2,9 @@
   "name" : "Jenkins",
   "type" : "jenkins",
   "url" : "http://localhost:8086/",
-  "buildOrder" : 11,
-  "buildName" : "webautomation #11",
-  "buildUrl" : "http://localhost:8086/job/webautomation/11/",
+  "buildOrder" : 12,
+  "buildName" : "webautomation #12",
+  "buildUrl" : "http://localhost:8086/job/webautomation/12/",
   "reportName" : "AllureReport",
-  "reportUrl" : "http://localhost:8086/job/webautomation/11/allure"
+  "reportUrl" : "http://localhost:8086/job/webautomation/12/allure"
 } ]
