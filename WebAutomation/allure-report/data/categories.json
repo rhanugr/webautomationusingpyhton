@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (399, 729)\n  (Session info: chrome=94.0.4606.81)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x004DBDE3+2473443]\n\tOrdinal0 [0x00476661+2057825]\n\tOrdinal0 [0x00382438+1057848]\n\tOrdinal0 [0x003B27B9+1255353]\n\tOrdinal0 [0x003B0AE0+1247968]\n\tOrdinal0 [0x003AE8AD+1239213]\n\tOrdinal0 [0x003AD701+1234689]\n\tOrdinal0 [0x003A3567+1193319]\n\tOrdinal0 [0x003C56E3+1332963]\n\tOrdinal0 [0x003A3386+1192838]\n\tOrdinal0 [0x003C57CA+1333194]\n\tOrdinal0 [0x003D4ABF+1395391]\n\tOrdinal0 [0x003C55AB+1332651]\n\tOrdinal0 [0x003A2104+1188100]\n\tOrdinal0 [0x003A2F59+1191769]\n\tGetHandleVerifier [0x00662266+1549718]\n\tGetHandleVerifier [0x0070D4A7+2250711]\n\tGetHandleVerifier [0x0056718B+521403]\n\tGetHandleVerifier [0x00566229+517465]\n\tOrdinal0 [0x0047B79D+2078621]\n\tOrdinal0 [0x0047FB58+2095960]\n\tOrdinal0 [0x0047FC92+2096274]\n\tOrdinal0 [0x00489541+2135361]\n\tBaseThreadInitThunk [0x7760FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77CC7A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77CC7A6E+238]",
+      "children" : [ {
+        "name" : "test_open_browser",
+        "uid" : "7021c45ecaaa41f1",
+        "parentUid" : "8871754aa20ce6c179c1c16f531de9df",
+        "status" : "broken",
+        "time" : {
+          "start" : 1635257696382,
+          "stop" : 1635257708418,
+          "duration" : 12036
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8871754aa20ce6c179c1c16f531de9df"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

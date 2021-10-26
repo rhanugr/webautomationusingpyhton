@@ -1,0 +1,31 @@
+[ {
+  "uid" : "c3aadd0f3fbc3553",
+  "name" : "test_broken_images",
+  "time" : {
+    "start" : 1635257708928,
+    "stop" : 1635257744868,
+    "duration" : 35940
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78b6e7251b695dbe",
+  "name" : "test_broken_link",
+  "time" : {
+    "start" : 1635257413913,
+    "stop" : 1635257696366,
+    "duration" : 282453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7021c45ecaaa41f1",
+  "name" : "test_open_browser",
+  "time" : {
+    "start" : 1635257696382,
+    "stop" : 1635257708418,
+    "duration" : 12036
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

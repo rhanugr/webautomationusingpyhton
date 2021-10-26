@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8086/job/webautomation/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 1,
+    "skipped" : 0,
+    "passed" : 2,
+    "unknown" : 0,
+    "total" : 3
+  }
+} ]
